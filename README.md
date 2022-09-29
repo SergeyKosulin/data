@@ -21,4 +21,4 @@ data analyst, аналитик данных, аналитик, analyst
 Python
 Pandas
 
-[Текст ссылки](адрес://ссылки.здесь "Заголовок ссылки")
+[project_yandex_music](https://github.com/SergeyKosulin/projects/blob/main/yandex-music.ipynb)
